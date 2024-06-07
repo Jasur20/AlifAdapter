@@ -1,0 +1,9 @@
+endpoint:
+    host: "0.0.0.0"
+    port: 8081
+    token: "test-token"
+adapter:
+    url: ""
+    userid: "476a1b42-b3dc-40e9-afad-4aaae1d640b9"
+    password: "cztef62wrwcysyubbbdnhlk1rs2cztfsqgwww7j0"
+    timeout: 5
